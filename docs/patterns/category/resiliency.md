@@ -32,9 +32,9 @@ Detecting failures and recovering quickly and efficiently, is necessary to maint
 |                      [Retry](../retry.md)                      |             Enable an application to handle anticipated, temporary failures when it tries to connect to a service or network resource by transparently retrying an operation that's previously failed.             |
 | [Scheduler Agent Supervisor](../scheduler-agent-supervisor.md) |                                                            Coordinate a set of actions across a distributed set of services and other remote resources.                                                            |
 
-## Security Resliency
+## Security Resiliency
 
-Achieving security resilience requires a combination of preventive measures to block attacks, responsive measures detect and quickly remediate active attacks, and governance to ensure consistent application of best practices.
+Achieving security resilience requires a combination of preventive measures to block attacks, responsive measures to detect and quickly remediate active attacks, and governance to ensure consistent application of best practices.
 
 - **Security strategy** should include lessons learned described in [security strategy guidance](/azure/cloud-adoption-framework/strategy/define-security-strategy) 
 - **Azure security configurations** should align to the best practices and controls in the [Azure Security Benchmark (ASB)](/azure/security/benchmarks/). Security configurations for Azure services should align to the [Security baselines for Azure](/azure/security/benchmarks/security-baselines-overview) in the ASB
